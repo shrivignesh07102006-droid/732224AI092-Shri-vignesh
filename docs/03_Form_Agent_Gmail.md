@@ -1,0 +1,7 @@
+- open and sign in n8n
+- ⁠step1: go to create workflow
+-⁠ step2: add "n8n form trigger"
+- ⁠step3: add AI agent
+-⁠ ⁠step4: add google ai chat model in ai agent and add gemini api key in google ai chat mode
+- step5: add gmail to send message
+- ![WhatsApp Image 2025-11-21 at 15 15 11 (1)](https://github.com/user-attachments/assets/557c0006-9ccf-45a4-9148-23324f4dacf6)
